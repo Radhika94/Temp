@@ -4,7 +4,7 @@
 #include <string>
 #include <sstream>
 using namespace std;
-struct position
+struct position1
 {
     int row, col;
 };
